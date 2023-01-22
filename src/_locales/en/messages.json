@@ -1,0 +1,122 @@
+{
+  "allTypes": {
+    "message": "All"
+  },
+  "type_redirect": {
+    "message": "Redirect"
+  },
+  "type_trusted": {
+    "message": "Trustworthy"
+  },
+  "type_suspicious": {
+    "message": "Suspicious"
+  },
+  "type_unknown": {
+    "message": "Unknown"
+  },
+  "type_custom": {
+    "message": "Custom"
+  },
+  "sector_edu": {
+    "message": "Education institute"
+  },
+  "sector_ecom": {
+    "message": "eCommerce"
+  },
+  "sector_tec": {
+    "message": "Technology"
+  },
+  "sector_web": {
+    "message": "Web service"
+  },
+  "sector_pds": {
+    "message": "Mail service / Parcel delivery"
+  },
+  "sector_snet": {
+    "message": "Social network"
+  },
+  "sector_ent": {
+    "message": "Entertainment"
+  },
+  "sector_epay": {
+    "message": "Payment"
+  },
+  "sector_telc": {
+    "message": "Telecommunication / Hosting"
+  },
+  "sector_rtl": {
+    "message": "Retail"
+  },
+  "sector_fin": {
+    "message": "Bank / Financial institution"
+  },
+  "invalidRedirect": {
+    "message": "Invalid redirection link"
+  },
+  "analyze": {
+    "message": "Analyze URLs..."
+  },
+  "similarDomain": {
+    "message": "The domain has a high similarity to the trusted domain \"$text\"."
+  },
+  "trustDomain": {
+    "message": "Trust domain"
+  },
+  "general": {
+    "message": "General"
+  },
+  "lists": {
+    "message": "Lists"
+  },
+  "custom": {
+    "message": "Custom"
+  },
+  "about": {
+    "message": "About"
+  },
+  "option_automaticUpdates": {
+    "message": "Automatic list updates"
+  },
+  "update": {
+    "message": "Update"
+  },
+  "addList": {
+    "message": "Add list"
+  },
+  "applyChanges": {
+    "message": "Apply changes"
+  },
+  "group_default": {
+    "message": "Default"
+  },
+  "group_regions": {
+    "message": "Regions"
+  },
+  "group_custom": {
+    "message": "Custom"
+  },
+  "loading": {
+    "message": "Loading..."
+  },
+  "insertListUrl": {
+    "message": "Insert list URL here"
+  },
+  "hide": {
+    "message": "Hide"
+  },
+  "inspect": {
+    "message": "View"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "notFound": {
+    "message": "No URLs found in mail"
+  },
+  "checkDomain": {
+    "message": "Check domain"
+  }
+}

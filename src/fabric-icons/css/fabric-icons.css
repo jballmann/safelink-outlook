@@ -1,0 +1,37 @@
+/*
+  Your use of the content in the files referenced here is subject to the terms of the license at https://aka.ms/fabric-assets-license
+*/
+@font-face {
+  font-family: 'FabricMDL2Icons';
+  src: url('../fonts/fabric-icons-b6242516.woff') format('woff');
+}
+
+.ms-Icon {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-family: 'FabricMDL2Icons';
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+}
+
+.ms-Icon--Add:before { content: "\E710"; }
+.ms-Icon--Back:before { content: "\E72B"; }
+.ms-Icon--ChevronDown:before { content: "\E70D"; }
+.ms-Icon--ChevronDownMed:before { content: "\E972"; }
+.ms-Icon--ChevronDownSmall:before { content: "\E96E"; }
+.ms-Icon--ChromeClose:before { content: "\E8BB"; }
+.ms-Icon--Completed:before { content: "\E930"; }
+.ms-Icon--CompletedSolid:before { content: "\EC61"; }
+.ms-Icon--CriticalErrorSolid:before { content: "\F5C9"; }
+.ms-Icon--Error:before { content: "\E783"; }
+.ms-Icon--FavoriteStar:before { content: "\E734"; }
+.ms-Icon--FavoriteStarFill:before { content: "\E735"; }
+.ms-Icon--LightningBolt:before { content: "\E945"; }
+.ms-Icon--LightningBoltSolid:before { content: "\E45F"; }
+.ms-Icon--MoreVertical:before { content: "\F2BC"; }
+.ms-Icon--Settings:before { content: "\E713"; }
+.ms-Icon--Sync:before { content: "\E895"; }
+.ms-Icon--Unknown:before { content: "\E9CE"; }
+.ms-Icon--UnknownSolid:before { content: "\F2E1"; }

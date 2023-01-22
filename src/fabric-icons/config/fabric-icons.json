@@ -1,0 +1,86 @@
+{
+  "fontName": "fabric-icons",
+  "fontFamilyName": "FabricMDL2Icons",
+  "excludeGlyphs": false,
+  "excludeThirdPartyIcons": false,
+  "chunkSubsets": false,
+  "hashFontFileName": true,
+  "glyphs": [
+    {
+      "name": "Add",
+      "unicode": "E710"
+    },
+    {
+      "name": "Back",
+      "unicode": "E72B"
+    },
+    {
+      "name": "ChevronDown",
+      "unicode": "E70D"
+    },
+    {
+      "name": "ChevronDownMed",
+      "unicode": "E972"
+    },
+    {
+      "name": "ChevronDownSmall",
+      "unicode": "E96E"
+    },
+    {
+      "name": "ChromeClose",
+      "unicode": "E8BB"
+    },
+    {
+      "name": "Completed",
+      "unicode": "E930"
+    },
+    {
+      "name": "CompletedSolid",
+      "unicode": "EC61"
+    },
+    {
+      "name": "CriticalErrorSolid",
+      "unicode": "F5C9"
+    },
+    {
+      "name": "Error",
+      "unicode": "E783"
+    },
+    {
+      "name": "FavoriteStar",
+      "unicode": "E734"
+    },
+    {
+      "name": "FavoriteStarFill",
+      "unicode": "E735"
+    },
+    {
+      "name": "LightningBolt",
+      "unicode": "E945"
+    },
+    {
+      "name": "LightningBoltSolid",
+      "unicode": "E45F"
+    },
+    {
+      "name": "MoreVertical",
+      "unicode": "F2BC"
+    },
+    {
+      "name": "Settings",
+      "unicode": "E713"
+    },
+    {
+      "name": "Sync",
+      "unicode": "E895"
+    },
+    {
+      "name": "Unknown",
+      "unicode": "E9CE"
+    },
+    {
+      "name": "UnknownSolid",
+      "unicode": "F2E1"
+    }
+  ]
+}

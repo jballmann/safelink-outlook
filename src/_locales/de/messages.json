@@ -1,0 +1,122 @@
+{
+  "allTypes": {
+    "message": "Alle"
+  },
+  "type_redirect": {
+    "message": "Weiterleitung"
+  },
+  "type_trusted": {
+    "message": "Vertrauenswürdig"
+  },
+  "type_suspicious": {
+    "message": "Verdächtig"
+  },
+  "type_unknown": {
+    "message": "Unbekannt"
+  },
+  "type_custom": {
+    "message": "Nutzerdefiniert"
+  },
+  "sector_edu": {
+    "message": "Bildungseinrichtung"
+  },
+  "sector_ecom": {
+    "message": "Onlinehandel"
+  },
+  "sector_tec": {
+    "message": "Technologie"
+  },
+  "sector_web": {
+    "message": "Webdienst"
+  },
+  "sector_pds": {
+    "message": "Post / Paketdienst"
+  },
+  "sector_snet": {
+    "message": "Soziales Netzwerk"
+  },
+  "sector_ent": {
+    "message": "Unterhaltung"
+  },
+  "sector_epay": {
+    "message": "Bezahldienst"
+  },
+  "sector_telc": {
+    "message": "Telekommunikation / Hosting"
+  },
+  "sector_rtl": {
+    "message": "Einzelhandel"
+  },
+  "sector_fin": {
+    "message": "Bank / Kreditinstitut"
+  },
+  "invalidRedirect": {
+    "message": "Ungültiger Weiterleitungs-Link"
+  },
+  "analyze": {
+    "message": "Analysiere URLs..."
+  },
+  "similarDomain": {
+    "message": "Die Domain hat große Ähnlichkeit mit der vertrauenswürdigen Domain \"$text\"."
+  },
+  "trustDomain": {
+    "message": "Domain vertrauen"
+  },
+  "general": {
+    "message": "Allgemein"
+  },
+  "lists": {
+    "message": "Listen"
+  },
+  "custom": {
+    "message": "Nutzerdefiniert"
+  },
+  "about": {
+    "message": "Über"
+  },
+  "option_automaticUpdates": {
+    "message": "Automatische Updates der Listen"
+  },
+  "update": {
+    "message": "Aktualisieren"
+  },
+  "addList": {
+    "message": "Liste hinzufügen"
+  },
+  "applyChanges": {
+    "message": "Änderungen ausführen"
+  },
+  "group_default": {
+    "message": "Standard"
+  },
+  "group_regions": {
+    "message": "Regionen"
+  },
+  "group_custom": {
+    "message": "Nutzerdefiniert"
+  },
+  "loading": {
+    "message": "Lade..."
+  },
+  "insertListUrl": {
+    "message": "Listen-URL hier eingeben"
+  },
+  "hide": {
+    "message": "Ausblenden"
+  },
+  "inspect": {
+    "message": "Ansehen"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "remove": {
+    "message": "Entfernen"
+  },
+  "notFound": {
+    "message": "Keine URLs in der Mail gefunden."
+  },
+  "checkDomain": {
+    "message": "Domain prüfen"
+  }
+}
