@@ -118,7 +118,8 @@
     methods: {
       getMessage,
       showSettings() {
-        Office.context.ui.displayDialogAsync('https://localhost:3000/options.html', {
+        const domain = process.env.NODE_ENV !== 'production' ? 'localhost:3000' : 'jballmann.github.io/safelink-outlook';
+        Office.context.ui.displayDialogAsync('https://' + domain + '/options.html', {
             height: 80,
             width: 50
           },
