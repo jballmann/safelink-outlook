@@ -37,7 +37,7 @@
   export default {
     data() {
       return {
-        repoUrl: 'http://www.github.com/jballmann/safelink-extension',
+        repoUrl: 'http://www.github.com/jballmann/safelink-outlook',
         dependencies: {
           'https://github.com/ghostery/adblocker': ['Adblocker', 'Ghostery'],
           'https://vuejs.org': ['Vue.js', 'Yuxi (Evan) You'],
